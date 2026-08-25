@@ -1,0 +1,4 @@
+interface:
+  display_name: "通俗知识讲解器"
+  short_description: "把枯燥知识讲清楚，并生成结构简洁实用的学习笔记内容"
+  default_prompt: "使用 $plain-knowledge-explainer，把这个知识点先讲理论，再讲用途和实践，默认生成笔记并询问保存位置。"

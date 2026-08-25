@@ -1,0 +1,149 @@
+{
+  "name": "洛克王国宠物图标素材库",
+  "format": "webp",
+  "source_repository": "https://github.com/SiNoCM/roco-pokedex",
+  "source_images_directory": "https://github.com/SiNoCM/roco-pokedex/tree/main/images",
+  "usage": "本地个人学习与笔记预览",
+  "library_directory": "pets/",
+  "library_index": "pets-index.json",
+  "library_count": 689,
+  "canonical_pet_count": 662,
+  "alias_file_count": 27,
+  "pets": [
+    {
+      "name": "迪莫",
+      "file": "pets/dimo.webp",
+      "source_file": "NO.001_迪莫.webp"
+    },
+    {
+      "name": "喵喵",
+      "file": "pets/miaomiao.webp",
+      "source_file": "NO.002_喵喵.webp"
+    },
+    {
+      "name": "火花",
+      "file": "pets/huohua.webp",
+      "source_file": "NO.005_火花.webp"
+    },
+    {
+      "name": "水蓝蓝",
+      "file": "pets/shuilanlan.webp",
+      "source_file": "NO.008_水蓝蓝.webp"
+    },
+    {
+      "name": "水灵",
+      "file": "pets/shuiling.webp",
+      "source_file": "NO.010_水灵.webp"
+    },
+    {
+      "name": "奇丽花",
+      "file": "pets/qilihua.webp",
+      "source_file": "NO.043_奇丽花.webp"
+    },
+    {
+      "name": "雪影娃娃",
+      "file": "pets/xueyingwawa.webp",
+      "source_file": "NO.144_雪影娃娃.webp"
+    },
+    {
+      "name": "圣羽翼王",
+      "file": "pets/shengyuyiwang.webp",
+      "source_file": "NO.152_圣羽翼王.webp"
+    },
+    {
+      "name": "板板壳",
+      "file": "pets/banbanke.webp",
+      "source_file": "NO.012_板板壳.webp"
+    },
+    {
+      "name": "咔咔壳",
+      "file": "pets/kakake.webp",
+      "source_file": "NO.013_咔咔壳.webp"
+    },
+    {
+      "name": "冬羽雀",
+      "file": "pets/dongyuque.webp",
+      "source_file": "NO.019_冬羽雀.webp"
+    },
+    {
+      "name": "岚鸟",
+      "file": "pets/laniao.webp",
+      "source_file": "NO.020_岚鸟.webp"
+    },
+    {
+      "name": "音速犬",
+      "file": "pets/yinsugou.webp",
+      "source_file": "NO.048_音速犬.webp"
+    },
+    {
+      "name": "嘟嘟锅",
+      "file": "pets/duduguo.webp",
+      "source_file": "NO.053_嘟嘟锅.webp"
+    },
+    {
+      "name": "幽冥眼",
+      "file": "pets/youmingyan.webp",
+      "source_file": "NO.056_幽冥眼.webp"
+    },
+    {
+      "name": "小星光",
+      "file": "pets/xiaoxingguang.webp",
+      "source_file": "NO.080_小星光.webp"
+    },
+    {
+      "name": "咔咔鸟",
+      "file": "pets/kakaniao.webp",
+      "source_file": "NO.098_咔咔鸟.webp"
+    },
+    {
+      "name": "彩蝶鲨",
+      "file": "pets/caidiesha.webp",
+      "source_file": "NO.110_彩蝶鲨.webp"
+    },
+    {
+      "name": "影狸",
+      "file": "pets/yingli.webp",
+      "source_file": "NO.124_影狸.webp"
+    },
+    {
+      "name": "小怂猫",
+      "file": "pets/xiaosongmao.webp",
+      "source_file": "NO.163_小怂猫.webp"
+    },
+    {
+      "name": "小狮鹫",
+      "file": "pets/xiaoshijiu.webp",
+      "source_file": "NO.165_小狮鹫.webp"
+    },
+    {
+      "name": "圆号鱼",
+      "file": "pets/yuanhaoyu.webp",
+      "source_file": "NO.184_圆号鱼.webp"
+    },
+    {
+      "name": "古钟蛇",
+      "file": "pets/guzhongshe.webp",
+      "source_file": "NO.212_古钟蛇.webp"
+    },
+    {
+      "name": "圣代甜甜",
+      "file": "pets/shengdaitiantian.webp",
+      "source_file": "NO.236_圣代甜甜.webp"
+    },
+    {
+      "name": "地鼠",
+      "file": "pets/ditu.webp",
+      "source_file": "NO.277_地鼠.webp"
+    },
+    {
+      "name": "遁地鼠",
+      "file": "pets/dundishu.webp",
+      "source_file": "NO.279_遁地鼠.webp"
+    },
+    {
+      "name": "咕德帽帽",
+      "file": "pets/gudemao.webp",
+      "source_file": "NO.368_咕德帽帽.webp"
+    }
+  ]
+}
