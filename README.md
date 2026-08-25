@@ -4,6 +4,16 @@
 
 它不仅回答“这是什么”，还会把知识落到实际使用：解释核心原理、说明适用场景，并提供从准备、配置到验证的完整最小实践。
 
+## 🐾 宠物伙伴
+
+<p align="center">
+  <img src="assets/rock-kingdom/pets/shuilanlan.webp" alt="水蓝蓝" width="180" />
+  <img src="assets/rock-kingdom/pets/huohua.webp" alt="火花" width="180" />
+  <img src="assets/rock-kingdom/pets/miaomiao.webp" alt="喵喵" width="180" />
+</p>
+
+水蓝蓝、火花和喵喵可以作为知识笔记中的轻量视觉提示：在开头、重点概念、段落转折或总结旁出现，让内容更有阅读节奏，而不抢走正文重点。
+
 ## 适用场景
 
 - 用大白话解释技术概念、理论知识或复杂文档
@@ -79,16 +89,6 @@
 ## 素材说明
 
 仓库包含可选的洛克王国宠物图标素材，仅用于本地个人学习笔记的轻量视觉点缀。素材的来源与使用限制请参阅 [assets/rock-kingdom/README.md](assets/rock-kingdom/README.md)；公开发布前请自行确认授权范围。
-
-### 宠物伙伴
-
-水蓝蓝、火花和喵喵可以作为知识笔记中的轻量视觉提示：在开头、重点概念、段落转折或总结旁出现，让内容更有阅读节奏，而不抢走正文重点。
-
-<p align="center">
-  <img src="assets/rock-kingdom/pets/shuilanlan.webp" alt="水蓝蓝" width="150" />
-  <img src="assets/rock-kingdom/pets/huohua.webp" alt="火花" width="150" />
-  <img src="assets/rock-kingdom/pets/miaomiao.webp" alt="喵喵" width="150" />
-</p>
 
 ## 目录结构
 
