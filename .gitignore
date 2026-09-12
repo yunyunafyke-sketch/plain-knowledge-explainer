@@ -20,3 +20,7 @@ venv/
 .env
 .env.*
 !.env.example
+Thumbs.db
+*.tmp
+.skills-manager.lock
+*.pyc
